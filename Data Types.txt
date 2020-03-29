@@ -1,0 +1,39 @@
+Oracle Java Certification: 1. Data Types with Author Baochuan Lu
+1 of 2
+Code Listings
+Primitive examples
+code 01_02.1 https://repl.it/@lubaochuan/LightgreyAngryWrapper
+code 01_02.2 https://repl.it/@lubaochuan/TepidPotableArguments
+code 01_02.3 https://repl.it/@lubaochuan/QuarterlyDefiantOutcome
+code 01_02.4 https://repl.it/@lubaochuan/FloralwhitePhysicalDevelopment
+Literals
+code 01_03.1 https://repl.it/@lubaochuan/TanFittingParallelcomputing
+code 01_03.2 https://repl.it/@lubaochuan/ExoticLimpProgrammingmacro
+code 01_03.3 https://repl.it/@lubaochuan/JuvenileElaborateServer
+code 01_03.4 https://repl.it/@lubaochuan/VigorousPeacefulRecords
+code 01_03.5 https://repl.it/@lubaochuan/FullInstructiveDiscussions
+code 01_03.6 https://repl.it/@lubaochuan/BogusVividRange
+code 01_03.7 https://repl.it/@lubaochuan/EarlyDotingLock
+Overflow and underflow
+code 01_04.1 https://repl.it/@lubaochuan/UnfortunateConcernedLinuxpc
+code 01_04.2 https://repl.it/@lubaochuan/GrotesqueTeemingSpools
+code 01_04.3 https://repl.it/@lubaochuan/PresentDarkgreenApache
+Reference type
+02_01.1 https://repl.it/@lubaochuan/OrchidMadCopyleft
+02_01.2 https://repl.it/@lubaochuan/PuzzlingMoralDeletion
+02_01.3 https://repl.it/@lubaochuan/LeftForcefulMetrics
+Primitive typecasting
+02_03.1 https://repl.it/@lubaochuan/QuickMiniVisitors
+02_03.2 https://repl.it/@lubaochuan/MysteriousBoldSquares
+02_03.3 https://repl.it/@lubaochuan/ElderlyWrathfulPdf
+02_03.4 https://repl.it/@lubaochuan/WeightyTremendousWeb
+Reference typecasting
+02_04.1 https://repl.it/@lubaochuan/BarrenQueasyProtocol
+02_04.2 https://repl.it/@lubaochuan/ClassicAbsoluteExecutables
+Oracle Java Certification: 1. Data Types
+with Baochuan LuOracle Java Certification: 1. Data Types with Author Baochuan Lu
+2 of 2
+Reference scope
+02_05.1 https://repl.it/@lubaochuan/PotableAliceblueDecagons
+02_05.2 https://repl.it/@lubaochuan/RuddyCleverGigahertz
+02_05.3 https://repl.it/repls/SecondhandPurpleConstants
